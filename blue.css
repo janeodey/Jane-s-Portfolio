@@ -1,0 +1,16 @@
+/* Global */
+:root{
+    --mainColor: #152025;
+    --secondaryColor: #192734;
+
+    --borderColor:#164d56;
+
+    --mainText : #ffffff;
+    --secondaryText: #eeeeee;
+
+    --themeDotBorder:#ffffff;
+    --previewbg: rgba(25, 39, 52, 0.8);
+    --preview-shadow:#111921;
+
+    --buttonColor:#17a2b8;
+}
